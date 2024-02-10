@@ -22,3 +22,4 @@ I have prepared variuous visual formats like charts or graphs to make it easier 
 The project includes a well-documented Jupyter notebook, providing a step-by-step walkthrough of the data analysis process. Additionally, I have prepared a concise report summarizing key findings and insights derived from the analysis.
 
 ## Key Findings:
+Sasjdhasjdbhajsvb
