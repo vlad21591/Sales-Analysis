@@ -31,3 +31,7 @@ We can see that the amount sold of goods is divided equally between the 3 catego
 When we look at the amount of profit those categories provided, there is a distinct difference. Although all categories are sold in equal amounts, the profits mainly come from Clothing (46.6%) and Electronics (43.8%), and lastly Furniture (9.6%).
 
 My insight would be to focus on Electronics and Clothing and not invest in Furniture because its profitability is quite low to start with and would require a lot of resources to become profitable like the other categories. However, if the existence of Furniture is crucial, so perhaps increasing the prices of the items or tailoring them to a specific demographic could be considered.
+
+We can group by same elements but by a diffrent category as city and see what information we can infer from it:
+
+![](Charts/BarChartCityProfit.png)
