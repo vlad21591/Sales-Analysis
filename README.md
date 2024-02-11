@@ -23,3 +23,4 @@ The project includes a well-documented Jupyter notebook, providing a step-by-ste
 
 ## Key Findings:
 By grouping by category the amount and profit can be summirized and help us understand where the bulk of the revenew is:
+![](Charts/Pie%20Charts%20By%20Category.png)
