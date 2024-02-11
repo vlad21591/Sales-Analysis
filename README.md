@@ -26,6 +26,8 @@ By grouping by category the summirized amount and profit helps us understand whe
 
 ![](Charts/Pie%20Charts%20By%20Category.png)
 
-We can see that the amount sold of goods is diveded equally between the 3 categories with Electronics having 38.3% , Clothing 32.2% and Furniture 29.5%.
-When we look at the amount of profit those categries provided there is a distict diffrence, although all catergories and sold in equal amounts, the profits come mainly from Clothing 46.6% and Electronics 43.8% and lastly Furniture 9.6%.
- 
+We can see that the amount sold of goods is divided equally between the 3 categories, with Electronics accounting for 38.3%, Clothing for 32.2%, and Furniture for 29.5%.
+
+When we look at the amount of profit those categories provided, there is a distinct difference. Although all categories are sold in equal amounts, the profits mainly come from Clothing (46.6%) and Electronics (43.8%), and lastly Furniture (9.6%).
+
+My insight would be to focus on Electronics and Clothing and not invest in Furniture because its profitability is quite low to start with and would require a lot of resources to become profitable like the other categories. However, if the existence of Furniture is crucial, so perhaps increasing the prices of the items or tailoring them to a specific demographic could be considered.
