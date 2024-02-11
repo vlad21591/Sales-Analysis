@@ -22,6 +22,10 @@ I have prepared variuous visual formats like charts or graphs to make it easier 
 The project includes a well-documented Jupyter notebook, providing a step-by-step walkthrough of the data analysis process. Additionally, I have prepared a concise report summarizing key findings and insights derived from the analysis.
 
 ## Key Findings:
-By grouping by category the amount and profit can be summirized and help us understand where the bulk of the revenew is:
+By grouping by category the summirized amount and profit helps us understand where the bulk of the revenew is coming from:
 
 ![](Charts/Pie%20Charts%20By%20Category.png)
+
+We can see that the amount sold of goods is diveded equally between the 3 categories with Electronics having 38.3% , Clothing 32.2% and Furniture 29.5%.
+When we look at the amount of profit those categries provided there is a distict diffrence, although all catergories and sold in equal amounts, the profits come mainly from Clothing 46.6% and Electronics 43.8% and lastly Furniture 9.6%.
+ 
