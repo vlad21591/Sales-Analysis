@@ -35,3 +35,9 @@ My insight would be to focus on Electronics and Clothing and not invest in Furni
 We can group by same elements but by a diffrent category as city and see what information we can infer from it:
 
 ![](Charts/BarChartCityProfit.png)
+
+
+We can extract the "best" and "worse" clients the company addresses and add personalized service, exclusive offers and discounts or on the other hand add clear boundaries, escalation procedure, learning opportunities and more.
+
+![](Charts/Customer%20Bar%20charts.png)
+
