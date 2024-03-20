@@ -3,7 +3,10 @@
 ## Project Overview:
 
 ### Introduction:
-This project focuses on data analysis using Python's Pandas library. Pandas is a powerful and flexible open-source data manipulation and analysis tool, widely used in the data science and analytics community. This project serves as a template for performing data analysis tasks, and it can be a starting point for various data exploration and manipulation projects.
+Pandas is a powerful and flexible open-source data manipulation and analysis tool, widely used in the data science and analytics community. This project serves as a template for performing data analysis tasks, and it can be a starting point for various data exploration and manipulation projects.
+
+In addition we created dynamic visualizations with Tableau. Through interactive dashboards and concise charts, we can find sales trends, insights and make informed decisions to drive business growth.
+
 
 ## Key Highlights:
 
@@ -19,9 +22,11 @@ Exploratory Data Analysis (EDA) is a key step in understanding and analyzing dat
 ##### Data Visualization
 I have prepared variuous visual formats like charts or graphs to make it easier to understand. It helps reveal patterns and trends in the data, making complex information more accessible and aiding in better decision-making.
 
+Also I exported the data to Tablue and made several basic analysis graphs.
+
 The project includes a well-documented Jupyter notebook, providing a step-by-step walkthrough of the data analysis process. Additionally, I have prepared a concise report summarizing key findings and insights derived from the analysis.
 
-## Key Findings:
+## Key Findings (pandas):
 By grouping by category the summirized amount and profit helps us understand where the bulk of the revenew is coming from:
 
 ![](Charts/Pie%20Charts%20By%20Category.png)
@@ -40,4 +45,24 @@ We can group by same elements but by a diffrent category as city and see what in
 We can extract the "best" and "worse" clients the company addresses and add personalized service, exclusive offers and discounts or on the other hand add clear boundaries, escalation procedure, learning opportunities to help sturgling clients.
 
 ![](Charts/Customer%20Bar%20charts.png)
+
+## Key Findings (Tableau):
+
+![](BI/Tablue%20Pics/1.png)
+![](BI/Tablue%20Pics/2.png)
+![](BI/Tablue%20Pics/3.png)
+![](BI/Tablue%20Pics/4.png)
+![](BI/Tablue%20Pics/5.png)
+![](BI/Tablue%20Pics/6.png)
+![](BI/Tablue%20Pics/7.png)
+![](BI/Tablue%20Pics/8.png)
+![](BI/Tablue%20Pics/9.png)
+![](BI/Tablue%20Pics/10.png)
+![](BI/Tablue%20Pics/11.png)
+![](BI/Tablue%20Pics/12.png)
+![](BI/Tablue%20Pics/13.png)
+![](BI/Tablue%20Pics/14.png)
+
+
+
 
