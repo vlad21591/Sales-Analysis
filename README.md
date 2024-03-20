@@ -71,10 +71,8 @@ In these two models, we conducted a comparable analysis of Customer Segmentation
 #### Demographic Distribution by Month (November):
 ![](BI/Tablue%20Pics/11.png)
 
-#### Amount Distribution by Demographic Selection:
+#### Amount and Profit Distribution by Demographic Selection:
 ![](BI/Tablue%20Pics/13.png)
-
-#### Profit Distribution by Demographic Selection:
 ![](BI/Tablue%20Pics/14.png)
 
 
