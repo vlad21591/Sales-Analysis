@@ -50,16 +50,12 @@ We can extract the "best" and "worse" clients the company addresses and add pers
 
 ![](BI/Tablue%20Pics/1.png)
 ![](BI/Tablue%20Pics/2.png)
-![](BI/Tablue%20Pics/3.png)
 ![](BI/Tablue%20Pics/4.png)
 ![](BI/Tablue%20Pics/5.png)
-![](BI/Tablue%20Pics/6.png)
 ![](BI/Tablue%20Pics/7.png)
 ![](BI/Tablue%20Pics/8.png)
-![](BI/Tablue%20Pics/9.png)
 ![](BI/Tablue%20Pics/10.png)
 ![](BI/Tablue%20Pics/11.png)
-![](BI/Tablue%20Pics/12.png)
 ![](BI/Tablue%20Pics/13.png)
 ![](BI/Tablue%20Pics/14.png)
 
