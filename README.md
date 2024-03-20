@@ -52,6 +52,7 @@ We can conduct a comparable revenue analysis using Tableau, which enables us to 
 In the initial two models, we can observe the distribution of various categories and their progression across months. Tableau also offers the flexibility to simultaneously filter both models by months or categories both parameters, enabling us to derive valuable insights from the data. 
 
 ![](BI/Tablue%20Pics/1.png)
+&nbsp; &nbsp; &nbsp; &nbsp;
 ![](BI/Tablue%20Pics/2.png)
 ![](BI/Tablue%20Pics/4.png)
 ![](BI/Tablue%20Pics/7.png)
