@@ -73,6 +73,7 @@ In these two models, we conducted a comparable analysis of Customer Segmentation
 
 #### Amount and Profit Distribution by Demographic Selection:
 ![](BI/Tablue%20Pics/13.png)
+------------
 ![](BI/Tablue%20Pics/14.png)
 
 
