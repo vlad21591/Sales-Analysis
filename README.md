@@ -49,12 +49,15 @@ We can extract the "best" and "worse" clients the company addresses and add pers
 ## Key Findings (Tableau):
 We can conduct a comparable revenue analysis using Tableau, which enables us to apply more detailed filters to refine our observations and gain deeper insights, ultimately leading to better understanding.
 
-In the initial two models, we can observe the distribution of various categories and their progression across months. Tableau also offers the flexibility to simultaneously filter both models by months or categories, enabling us to derive valuable insights from the data. 
+In the initial two models, we can observe the distribution of various categories and their progression across months. Tableau also offers the flexibility to simultaneously filter both models by months or categories both parameters, enabling us to derive valuable insights from the data. 
 
 ![](BI/Tablue%20Pics/1.png)
 ![](BI/Tablue%20Pics/2.png)
 ![](BI/Tablue%20Pics/4.png)
 ![](BI/Tablue%20Pics/7.png)
+
+In these two models, we conducted a comparable analysis of Customer Segmentation, incorporating the element of time. Leveraging Tableau's capabilities, we explored customer segments based on demographic data, purchase behavior, or engagement metrics. This exploration allows us to tailor marketing strategies and enhance customer experiences effectively.
+
 ![](BI/Tablue%20Pics/10.png)
 ![](BI/Tablue%20Pics/11.png)
 ![](BI/Tablue%20Pics/13.png)
