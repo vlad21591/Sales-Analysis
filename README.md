@@ -54,7 +54,6 @@ In the initial two models, we can observe the distribution of various categories
 ![](BI/Tablue%20Pics/1.png)
 ![](BI/Tablue%20Pics/2.png)
 ![](BI/Tablue%20Pics/4.png)
-![](BI/Tablue%20Pics/5.png)
 ![](BI/Tablue%20Pics/7.png)
 ![](BI/Tablue%20Pics/10.png)
 ![](BI/Tablue%20Pics/11.png)
