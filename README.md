@@ -53,13 +53,19 @@ In the initial two models, we can observe the distribution of various categories
 
 #### General Distribution:
 ![](BI/Tablue%20Pics/1.png)
-
+---
+---
+---
 #### General Distribution by Month (November):
 ![](BI/Tablue%20Pics/2.png)
-
+---
+---
+---
 #### General Distribution by Profit category (Clothing):
 ![](BI/Tablue%20Pics/4.png)
-
+---
+---
+---
 #### General Distribution by Amount category (Furniture):
 ![](BI/Tablue%20Pics/7.png)
 
@@ -67,13 +73,19 @@ In these two models, we conducted a comparable analysis of Customer Segmentation
 
 #### Distribution by Time:
 ![](BI/Tablue%20Pics/10.png)
-
+---
+---
+---
 #### Demographic Distribution by Month (November):
 ![](BI/Tablue%20Pics/11.png)
-
+---
+---
+---
 #### Amount and Profit Distribution by Demographic Selection:
 ![](BI/Tablue%20Pics/13.png)
-------------
+---
+---
+---
 ![](BI/Tablue%20Pics/14.png)
 
 
