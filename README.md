@@ -65,16 +65,16 @@ In the initial two models, we can observe the distribution of various categories
 
 In these two models, we conducted a comparable analysis of Customer Segmentation, incorporating the element of time. Leveraging Tableau's capabilities, we explored customer segments based on demographic data, purchase behavior, or engagement metrics. This exploration allows us to tailor marketing strategies and enhance customer experiences effectively.
 
-#### General Distribution by Time:
+#### Distribution by Time:
 ![](BI/Tablue%20Pics/10.png)
 
 #### Demographic Distribution by Month (November):
 ![](BI/Tablue%20Pics/11.png)
 
-#### Demographic Distribution by Amount:
+#### Amount Distribution by Demographic Selection:
 ![](BI/Tablue%20Pics/13.png)
 
-#### Demographic Distribution by Profit:
+#### Profit Distribution by Demographic Selection:
 ![](BI/Tablue%20Pics/14.png)
 
 
