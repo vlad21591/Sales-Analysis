@@ -37,7 +37,7 @@ When we look at the amount of profit those categories provided, there is a disti
 
 My insight would be to focus on Electronics and Clothing and not invest in Furniture because its profitability is quite low to start with and would require a lot of resources to become profitable like the other categories. However, if the existence of Furniture is crucial, so perhaps increasing the prices of the items or tailoring them to a specific demographic could be considered.
 
-We can group by same elements but by a diffrent category as city and see what information we can infer from it:
+We can group by same elements by a diffrent category and infer demographic insights:
 
 ![](Charts/BarChartCityProfit.png)
 
@@ -47,13 +47,15 @@ We can extract the "best" and "worse" clients the company addresses and add pers
 ![](Charts/Customer%20Bar%20charts.png)
 
 ## Key Findings (Tableau):
+We can conduct a comparable revenue analysis using Tableau, which enables us to apply more detailed filters to refine our observations and gain deeper insights, ultimately leading to better understanding.
+
+In the initial two models, we can observe the distribution of various categories and their progression across months. Tableau also offers the flexibility to simultaneously filter both models by months or categories, enabling us to derive valuable insights from the data. 
 
 ![](BI/Tablue%20Pics/1.png)
 ![](BI/Tablue%20Pics/2.png)
 ![](BI/Tablue%20Pics/4.png)
 ![](BI/Tablue%20Pics/5.png)
 ![](BI/Tablue%20Pics/7.png)
-![](BI/Tablue%20Pics/8.png)
 ![](BI/Tablue%20Pics/10.png)
 ![](BI/Tablue%20Pics/11.png)
 ![](BI/Tablue%20Pics/13.png)
